@@ -1,0 +1,27 @@
+[
+    {
+        "organ": "nostril",
+        "severity": "mild",
+        "image_path": "/kaggle/input/organ-images/nostril.png"
+    },
+    {
+        "organ": "nasal",
+        "severity": "critical",
+        "image_path": "/kaggle/input/organ-images/nasal.png"
+    },
+    {
+        "organ": "brain",
+        "severity": "critical",
+        "image_path": "/kaggle/input/brain-mri-images-for-brain-tumor-detection/yes/Y1.jpg"
+    },
+    {
+        "organ": "liver",
+        "severity": "critical",
+        "image_path": "/kaggle/input/d/eakashgoud/liver-disease-dataset/Benign/Benign/image/1.jpg"
+    },
+    {
+        "organ": "lung",
+        "severity": "critical",
+        "image_path": "/kaggle/input/data/images_001/images/00000001_001.png"
+    }
+]

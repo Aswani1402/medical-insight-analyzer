@@ -1,0 +1,7 @@
+streamlit
+pandas
+faiss-cpu
+langchain
+transformers
+sentence-transformers
+Pillow

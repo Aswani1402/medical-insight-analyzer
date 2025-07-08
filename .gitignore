@@ -1,0 +1,9 @@
+# Ignore unnecessary files and large images
+__pycache__/
+*.pyc
+*.zip
+*.png
+*.jpg
+*.jpeg
+data/images_*/
+data/images/*
