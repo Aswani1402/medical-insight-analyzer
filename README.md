@@ -79,20 +79,22 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### 🏠 Streamlit UI Homepage
-![Streamlit UI](streamlit_home.png)
+![Streamlit UI](streamlit_ui.jpg)
 
 ### 🔬 Named Entity Recognition
-![NER Output](ner_output.png)
+![NER Output](ner_output.jpg)
 
 ### 🔗 Relation Extraction
-![Relation Extraction](relation_output.png)
+![Relation Extraction](relation_extraction.jpg)
 
 ### 🧠 Anatomical Visualization
-![Anatomy Mapping](anatomy_map.png)
+![Anatomy Mapping](organ_highlight.jpg)
 
-### 🤖 LLM Summarization & QA
-![LLM QA](llm_qa.png)
+### Time Progression of the Patient 
+![Time Progression](xray_progression)
 
+### Block Diagram
+![Block_diagram](block_diagram)
 
 📚 Dependencies
 Python 3.8+
