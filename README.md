@@ -17,15 +17,25 @@ A modular pipeline for extracting clinical insights from unstructured biomedical
 
 ## 🗂️ Project Structure
 ├── app.py # Main Streamlit App
+
 ├── insight_engine.py # Core NLP processing logic
+
 ├── rag_module.py # RAG-based summarization and QA module
+
 ├── test_import.py # Module testing script
+
 ├── requirements.txt # All dependencies
+
 ├── data/ # Folder containing input sample data
+
 ├── medical-report-information-extraction-1.ipynb # Biomedical NER notebook
+
 ├── medical-relation-extraction-2.ipynb # Relation extraction notebook
+
 ├── 2d-organ-visualization-with-highlighting-3.ipynb # Anatomy mapping notebook
+
 ├── time-based-disease-progression-4.ipynb # (Optional) Timeline module
+
 └── README.md # Project documentation
 
 
