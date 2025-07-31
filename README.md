@@ -91,10 +91,10 @@ streamlit run app.py
 ![Anatomy Mapping](organ_highlight.jpg)
 
 ### Time Progression of the Patient 
-![Time Progression](xray_progression)
+![Time Progression](xray_progression.jgp)
 
 ### Block Diagram
-![Block_diagram](block_diagram)
+![Block_diagram](block_diagram.png)
 
 📚 Dependencies
 Python 3.8+
